@@ -5,6 +5,13 @@ import java.util.Scanner;
 public class Arranjo {
 
     public static void main(String[] args) {
+
+        /*
+        Esse é o código feito pela dupla, ele contém a lógica do nosso trabalho.
+        Para gerar o código html pegamos essa lógica e jogamos na IA e ela replicou a mesma lógica em javaScript
+        para você ter um entendimento melhor do nosso trabalho
+         */
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("============================================");
